@@ -13,7 +13,7 @@ public class HomePage extends BaseClass{
 
 
     @AndroidFindBy(id = "android:id/button1")
-    private AndroidElement agreeButton;
+    private AndroidElement agreeButton;//test
 
 
 
